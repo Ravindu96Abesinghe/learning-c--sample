@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\bin\Debug\net7.0\DefaultParams.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\bin\Debug\net7.0\DefaultParams.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\bin\Debug\net7.0\DefaultParams.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\bin\Debug\net7.0\DefaultParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\bin\Debug\net7.0\DefaultParams.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\refint\DefaultParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\DefaultParams.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\DefaultParams\obj\Debug\net7.0\ref\DefaultParams.dll

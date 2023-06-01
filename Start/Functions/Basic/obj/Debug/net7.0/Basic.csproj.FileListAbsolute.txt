@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\bin\Debug\net7.0\Basic.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\bin\Debug\net7.0\Basic.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\bin\Debug\net7.0\Basic.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\bin\Debug\net7.0\Basic.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\bin\Debug\net7.0\Basic.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\refint\Basic.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\Basic.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\Basic\obj\Debug\net7.0\ref\Basic.dll

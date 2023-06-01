@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOutParams.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOutParams.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOutParams.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOutParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOutParams.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\refint\RefAndOutParams.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOutParams.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Functions\RefAndOutParams\obj\Debug\net7.0\ref\RefAndOutParams.dll

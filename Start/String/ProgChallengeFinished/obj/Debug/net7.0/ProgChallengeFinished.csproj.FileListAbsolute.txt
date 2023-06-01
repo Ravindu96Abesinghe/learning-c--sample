@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\bin\Debug\net7.0\ProgChallengeFinished.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\bin\Debug\net7.0\ProgChallengeFinished.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\bin\Debug\net7.0\ProgChallengeFinished.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\bin\Debug\net7.0\ProgChallengeFinished.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\bin\Debug\net7.0\ProgChallengeFinished.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\refint\ProgChallengeFinished.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ProgChallengeFinished.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\ProgChallengeFinished\obj\Debug\net7.0\ref\ProgChallengeFinished.dll

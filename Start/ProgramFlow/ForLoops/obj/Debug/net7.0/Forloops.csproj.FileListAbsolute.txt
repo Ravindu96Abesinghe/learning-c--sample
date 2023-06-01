@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\bin\Debug\net7.0\Forloops.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\bin\Debug\net7.0\Forloops.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\bin\Debug\net7.0\Forloops.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\bin\Debug\net7.0\Forloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\bin\Debug\net7.0\Forloops.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\refint\Forloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\Forloops.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\ForLoops\obj\Debug\net7.0\ref\Forloops.dll

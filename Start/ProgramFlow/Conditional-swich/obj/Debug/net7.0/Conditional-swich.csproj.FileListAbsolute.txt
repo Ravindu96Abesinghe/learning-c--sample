@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\bin\Debug\net7.0\Conditional-swich.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\bin\Debug\net7.0\Conditional-swich.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\bin\Debug\net7.0\Conditional-swich.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\bin\Debug\net7.0\Conditional-swich.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\bin\Debug\net7.0\Conditional-swich.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\refint\Conditional-swich.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\Conditional-swich.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\Conditional-swich\obj\Debug\net7.0\ref\Conditional-swich.dll

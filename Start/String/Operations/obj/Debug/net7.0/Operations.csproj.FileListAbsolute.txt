@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\bin\Debug\net7.0\Operations.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\bin\Debug\net7.0\Operations.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\bin\Debug\net7.0\Operations.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\bin\Debug\net7.0\Operations.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\bin\Debug\net7.0\Operations.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\refint\Operations.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\Operations.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\String\Operations\obj\Debug\net7.0\ref\Operations.dll

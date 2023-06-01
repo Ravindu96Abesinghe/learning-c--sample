@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\bin\Debug\net7.0\Whileloops.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\bin\Debug\net7.0\Whileloops.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\bin\Debug\net7.0\Whileloops.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\bin\Debug\net7.0\Whileloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\bin\Debug\net7.0\Whileloops.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\refint\Whileloops.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\Whileloops.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\ProgramFlow\WhileLoops\obj\Debug\net7.0\ref\Whileloops.dll

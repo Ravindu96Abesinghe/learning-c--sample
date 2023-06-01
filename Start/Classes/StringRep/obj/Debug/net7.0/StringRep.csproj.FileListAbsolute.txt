@@ -1,0 +1,15 @@
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.exe
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.deps.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.runtimeconfig.json
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\bin\Debug\net7.0\StringRep.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.AssemblyInfo.cs
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\refint\StringRep.dll
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.pdb
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\StringRep.genruntimeconfig.cache
+C:\Users\abesi\Desktop\ExerciseFiles\Start\Classes\StringRep\obj\Debug\net7.0\ref\StringRep.dll

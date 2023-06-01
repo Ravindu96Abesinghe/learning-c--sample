@@ -1,0 +1,5 @@
+C:\Users\abesi\Desktop\Learning C# Sample files\Start\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\abesi\Desktop\Learning C# Sample files\Start\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesi\Desktop\Learning C# Sample files\Start\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\abesi\Desktop\Learning C# Sample files\Start\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\abesi\Desktop\Learning C# Sample files\Start\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
